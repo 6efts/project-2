@@ -4,6 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
+    "serve":"browser-sync start --server --files --port $PORT \"dist/css/*.css, dist/js/*.js, **/*.html, !node_modules/**/*.html\"",
     "build":"webpack --mode production",
     "dev": "webpack --config webpack.config.js",
     "start": "webpack --config webpack.config.js",
