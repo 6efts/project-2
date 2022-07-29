@@ -1,21 +1,15 @@
-Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
+Project Title : JUANTED FLY 
 
-## Getting Started
+Description : Created using Javascript canvas
 
-1.  Clone the repo:
+Contents : 
+- Just a single page 
+- Play button 
+- Instruction button  
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
+Authors : 
+- Vince Jarren de Honor
 
-2.  Install dependencies:
-
-        yarn
-
-    or
-
-        npm install
-
-3.  Run webpack:
-
-        npm start
-
-Your canvas piece should open up automatically at http://localhost:3000 and you should see 'HTML CANVAS BOILERPLATE' on hover.
+Executing Program : 
+- npm install
+- npm start
